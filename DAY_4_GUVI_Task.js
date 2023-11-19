@@ -76,4 +76,22 @@ let resume = {
     ]
 }
 
-console.log(resume);
+/* 1. For the given JSON iterate over all the loops (for, for in, for of, forEach)
+
+for...in
+for(a in resume){
+    console.log(a,resume[a]);
+}
+
+for...of
+let gen = Object.keys(resume)
+
+for(v of gen){
+    console.log(v,resume[v])
+}
+
+forEach
+let fE = Object.keys(resume);
+fE.forEach((it) => console.log(it,resume[it]));
+
+*/
