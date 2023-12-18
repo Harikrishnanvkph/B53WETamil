@@ -1,0 +1,51 @@
+input{
+    width: 100%;
+}
+sup{
+    color: red;
+}
+
+.exp{
+    margin-top: 20px;
+}
+p{
+    margin-bottom: 8px;
+}
+.fa-star{
+    color: rgb(255, 225, 56);
+}
+h6{
+    margin-top: 8px;
+    font-size: 12px;
+}
+
+label,b{
+    font-size: 14px;
+}
+
+p{
+    font-size: 12px;
+}
+
+.email,label{
+    margin-top: 10px;
+}
+
+textarea{
+    width: 100%;
+}
+
+.tim{
+    margin-top: 0px;
+    text-align: center;
+}
+
+.dis{
+    text-align: start;
+}
+
+.start{
+    margin-top: 10px;
+}
+
+
